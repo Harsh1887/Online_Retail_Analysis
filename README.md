@@ -41,8 +41,8 @@ This project solves these problems using **customer analytics and association ru
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard_overview.png)
-
+!Online Retail Performance(Images/Retail_Perfromace.png)
+!Market Basket Analysis(Images/Market_Basket_Analysis.png)
 ---
 
 ## 📈 Key Insights
