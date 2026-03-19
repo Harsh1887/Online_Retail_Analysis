@@ -75,10 +75,8 @@ This analysis enables:
 ---
 online-retail-analytics
 │
-├── data/
-├── sql/
-├── python/
-├── dashboard/
-│
-├── README.md
-├── PROJECT_OVERVIEW.md
+├── Dashboard/      # Contains Tata.pbix
+├── Data/           # Contains RFM.csv, Market_Basket_Rules.csv
+├── Images/         # Screenshots for documentation
+├── Python/         # Market_Basket_Analysis.ipynb
+└── SQL/            # 01_Data_Cleaning.sql, 02_Feature_Engineering.sql...
