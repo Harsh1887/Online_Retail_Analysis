@@ -73,10 +73,15 @@ This analysis enables:
 - Increased average order value  
 
 ---
-online-retail-analytics
-│
-├── Dashboard/      # Contains Tata.pbix
-├── Data/           # Contains RFM.csv, Market_Basket_Rules.csv
-├── Images/         # Screenshots for documentation
-├── Python/         # Market_Basket_Analysis.ipynb
-└── SQL/            # 01_Data_Cleaning.sql, 02_Feature_Engineering.sql...
+```
+online-retail-analytics/
+├── 📁 dashboards/
+│   └── Tata.pbix
+├── 📁 data/
+│   ├── RFM.csv
+│   └── Market_Basket_Rules.csv
+|   └── Online Retail Data Set.csv
+├── 📁 images/
+├── 📁 python/
+└── 📁 sql
+```
