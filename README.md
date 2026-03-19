@@ -90,3 +90,11 @@ online-retail-analytics/
     ├── 02_Feature_Engineering.sql
     └── 03_RFM_Analysis.sql
 ```
+## 👤 Author
+
+**Harsh Gupta** *Data Analyst*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guptaharsh1401/)
+
+---
+*Feel free to connect with me to discuss data analytics, SQL, or Power BI!*
