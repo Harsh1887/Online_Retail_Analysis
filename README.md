@@ -215,8 +215,8 @@ Average 39 days between orders
 
 ## 📊 Dashboard Preview
 
-![Online Retail Performance](./images/Retail_Performance.png)
-![Market Basket Analysis](./images/Market_Basket_Analysis.png)
+![Online Retail Performance](Images/Retail_Perfromace.png)
+![Market Basket Analysis](Images/Market_Basket_Analysis.png)
 
 ---
 
