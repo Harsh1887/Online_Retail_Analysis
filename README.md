@@ -73,6 +73,7 @@ This analysis enables:
 - Increased average order value  
 
 ---
+## 📁 Project Structure
 ```
 online-retail-analytics/
 ├── 📁 dashboards/
