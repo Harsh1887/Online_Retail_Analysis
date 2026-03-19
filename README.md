@@ -95,7 +95,8 @@ online-retail-analytics/
 **Harsh Gupta** 
 *Data Analyst*
 
-Connect With Me[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guptaharsh1401/)
+Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guptaharsh1401/)
 
 ---
 *Feel free to connect with me to discuss data analytics, SQL, or Power BI!*
