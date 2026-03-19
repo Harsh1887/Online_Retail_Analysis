@@ -335,8 +335,8 @@ After running the analysis:
 **Harsh Gupta**  
 Data Analyst 
 
-📧 Email: [harshgupta1887@gmail.com]  
-🔗 LinkedIn: [https://www.linkedin.com/in/guptaharsh1401/]  
+📧 Email: [@Harsh GUpta](harshgupta1887@gmail.com)
+🔗 LinkedIn: [@guptaharsh1401](https://www.linkedin.com/in/guptaharsh1401/) 
 🐙 GitHub: [@Harsh1887](https://github.com/Harsh1887)
 
 ---
@@ -349,7 +349,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 🙏 Acknowledgments
 
-- Dataset: [Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail) (UCI ML Repository)
 - Algorithm: Apriori for association rule mining
 - Tools: Open-source community
 
