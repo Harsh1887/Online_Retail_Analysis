@@ -335,7 +335,7 @@ After running the analysis:
 **Harsh Gupta**  
 Data Analyst 
 
-📧 Email: [@Harsh GUpta](harshgupta1887@gmail.com)
+📧 Email: [@Harsh Gupta](harshgupta1887@gmail.com)
 🔗 LinkedIn: [@guptaharsh1401](https://www.linkedin.com/in/guptaharsh1401/) 
 🐙 GitHub: [@Harsh1887](https://github.com/Harsh1887)
 
