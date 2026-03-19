@@ -84,5 +84,9 @@ online-retail-analytics/
 |   └── Online Retail Data Set.csv
 ├── 📁 images/
 ├── 📁 python/
+|   └── Online-Retail.ipynb
 └── 📁 sql
+    ├── 01_Data_Cleaning.sql
+    ├── 02_Feature_Engineering.sql
+    └── 03_RFM_Analysis.sql
 ```
